@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local properties (may contain SDK path or secrets)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven Local publish output (not source)
+out/
+
+# OS
+.DS_Store
+Thumbs.db
